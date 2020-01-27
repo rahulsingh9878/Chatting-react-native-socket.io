@@ -2,10 +2,11 @@
 Chatting native app using Socket.io
 
 To run this app things you need in your system are -
-In Backend---
+
+# In Backend---
 1. Socket.io
 2. Express
 
-In Matrix---
-3. Socket-client
+# In Matrix---
+1. Socket-client
 
