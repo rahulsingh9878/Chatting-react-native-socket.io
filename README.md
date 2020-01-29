@@ -1,5 +1,5 @@
 # Chatting-react-native-socket.io
-Chatting native app using Socket.io
+Chatting native *expo* app  using Socket.io
 
 To run this app things you need in your system are -
 
